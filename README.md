@@ -10,4 +10,4 @@ Dependencies include:
 - Flexbar
 
 ## Instructions
-Run app.r and use the GUI prompts to select fastq files, set contrasts, specify and/or create a reference sequence set (i.e. "transcriptome"), and start the pipeline. Then sit back and relax while Flexbar and Kallisto do the heavy lifting.
+Run app.R and use the GUI prompts to select fastq files, set contrasts, specify and/or create a reference sequence set (i.e. "transcriptome"), and start the pipeline. Then sit back and relax while Flexbar and Kallisto do the heavy lifting (and take ~ an hour to run).
